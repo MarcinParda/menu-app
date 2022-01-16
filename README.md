@@ -2,8 +2,9 @@
 
 ### My solution of interview task.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### ![Menu App](https://cdn.discordapp.com/attachments/917864818189418576/932351682325667890/unknown.png)
 
-## Task Description
+## Task Description (1 hour of time)
 
 1. Create a new React app by running:
 
