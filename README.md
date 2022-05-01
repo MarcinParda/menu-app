@@ -1,6 +1,6 @@
 # Menu App
 
-### My solution of interview task.
+### My solution of interview task. [Live](https://luminous-sunflower-7a6126.netlify.app)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### ![Menu App](https://cdn.discordapp.com/attachments/917864818189418576/932351682325667890/unknown.png)
 
